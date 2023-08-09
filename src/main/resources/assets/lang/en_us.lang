@@ -1,0 +1,9 @@
+commands.locationalinventories.dimension.add.usage=/dimensionalinventories dimension add [dimension]
+commands.locationalinventories.dimension.remove.usage=/dimensionalinventories dimension remove [dimension]
+commands.locationalinventories.usage=Use /locationalinventories <subcommand>
+commands.locationalinventories.zone.add.usage=/dimensionalinventories zone add <x1> <y1> <z1> <x2> <y2> <z2> [keepInventory] [name]
+commands.locationalinventories.zone.create.usage=/dimensionalinventories zone create <x1> <y1> <z1> <x2> <y2> <z2> [keepInventory] [name]
+commands.locationalinventories.zone.remove.usage=/dimensionalinventories zone remove [name]
+commands.locationalinventories.zone.edit.usage=/dimensionalinventories zone edit [name] [boundingbox|bb|keepInventory|showOutline|newName]
+text.locationalinventories.enter_zone=Now entering %s Zone
+text.locationalinventories.leave_zone=Now leaving %s Zone

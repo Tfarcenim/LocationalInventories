@@ -1,0 +1,15 @@
+[
+{
+  "modid": "locationalinventories",
+  "name": "Locational Inventories",
+  "description": "Inventories by dimension or zones",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tfarecmin"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
